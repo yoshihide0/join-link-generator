@@ -5,4 +5,4 @@ A simple program that grabs the last Roblox server you joined and turns it into 
 Open the .exe file, and it should copy the generated join link by default. Then you can send the generated link for anyone to open, and they'll join to your Roblox server.
 
 # Download
-Requires .NET framework! Download all the files on the Release page
+Requires .NET 8.0 framework! Download all the files on the Release page
