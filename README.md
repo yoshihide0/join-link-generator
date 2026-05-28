@@ -7,5 +7,5 @@ Open the .exe file, and it should copy the generated join link by default. Then 
 
 
 # Download
-Requires .NET 8.0 framework! Download these files on the Release page:<br>
+Requires .NET 8.0 framework! Download these files on the [Release page](https://github.com/yoshihide0/join-link-generator/releases/tag/release):<br>
 <img width="258" height="180" alt="image" src="https://github.com/user-attachments/assets/fae77de3-58ac-497e-bda7-e158802e77b1" />
